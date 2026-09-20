@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/school/baku-higher-oil-school/"><img src="https://img.shields.io/badge/Institution-The%20Lyceum%20of%20Digital%20Knowledge%20under%20BHOS-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Institution"></a>
   <a href="https://www.linkedin.com/in/avaz-asgarov/"><img src="https://img.shields.io/badge/Instructor-Avaz%20Asgarov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instructor"></a>
+  <a href="https://github.com/AvazAsgarov/flowgorithm-algorithms-grade8/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github&logoColor=white" alt="Release"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Class%20Cohort-30%20Students-2B7A78?style=for-the-badge" alt="Cohort"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Grade-8th%20Grade%20Informatics-008080?style=for-the-badge" alt="Grade"></a>
   <a href="http://www.flowgorithm.org/"><img src="https://img.shields.io/badge/Platform-Flowgorithm%20v4.5-4CAF50?style=for-the-badge" alt="Platform"></a>
