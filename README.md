@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/school/baku-higher-oil-school/"><img src="https://img.shields.io/badge/Institution-The%20Lyceum%20of%20Digital%20Knowledge%20under%20BHOS-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Institution"></a>
-  <a href="https://github.com/AvazAsgarov"><img src="https://img.shields.io/badge/Instructor-Avaz%20Asgarov-00509E?style=for-the-badge&logo=github&logoColor=white" alt="Instructor"></a>
+  <a href="https://www.linkedin.com/in/avaz-asgarov/"><img src="https://img.shields.io/badge/Instructor-Avaz%20Asgarov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instructor"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Class%20Cohort-30%20Students-2B7A78?style=for-the-badge" alt="Cohort"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Grade-8th%20Grade%20Informatics-008080?style=for-the-badge" alt="Grade"></a>
   <a href="http://www.flowgorithm.org/"><img src="https://img.shields.io/badge/Platform-Flowgorithm%20v4.5-4CAF50?style=for-the-badge" alt="Platform"></a>
@@ -15,7 +15,7 @@
 
 ## 🏛️ Institutional Affiliation & Course Overview
 
-This curriculum repository is developed and maintained by **Avaz Asgarov**, Informatics Teacher at **The Lyceum of Digital Knowledge under [Baku Higher Oil School (BHOS)](https://www.linkedin.com/school/baku-higher-oil-school/)**.
+This curriculum repository is developed and maintained by **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**, Informatics Teacher at **The Lyceum of Digital Knowledge under [Baku Higher Oil School (BHOS)](https://www.linkedin.com/school/baku-higher-oil-school/)**.
 
 - **Institution:** The Lyceum of Digital Knowledge under Baku Higher Oil School
 - **Class Cohort:** 30 Grade-8 students
@@ -26,6 +26,19 @@ This curriculum repository is developed and maintained by **Avaz Asgarov**, Info
   - [Baku Higher Oil School — Official Portal](https://bhos.edu.az)
 
 The material serves as the central algorithmic workbook for the classroom, instilling rigorous computational habits, problem deconstruction, and visual algorithm design before transitioning to text-based syntax.
+
+---
+
+## 👨‍🏫 Instructor & Author Profile
+
+**[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)** bridges engineering education and secondary school pedagogy within Baku Higher Oil School:
+
+- **Teaching Role:** Informatics Teacher at **The Lyceum of Digital Knowledge under Baku Higher Oil School (BHOS)**, leading and mentoring an active cohort of 30 Grade-8 students in algorithmic thinking.
+- **Academic Background:** 5th-Year Undergraduate Student in **Process Automation Engineering** at **Baku Higher Oil School (BHOS)**.
+- **Engineering Synergy:** Combining the mathematical rigor of industrial process automation with visual algorithmic modeling to deliver structured, industry-informed computational foundations to young learners.
+- **Professional Profiles:**
+  - [LinkedIn Profile — Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)
+  - [GitHub Profile — @AvazAsgarov](https://github.com/AvazAsgarov)
 
 ---
 
