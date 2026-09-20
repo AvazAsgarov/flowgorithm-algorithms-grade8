@@ -1,0 +1,17 @@
+# Flowgorithm auto-backup files
+*.bak
+*.fprg.bak
+
+# Windows thumbnail and system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code & IDE files
+.vscode/
+.idea/
+
+# Scratch & temporary test files
+scratch/
+*.tmp
