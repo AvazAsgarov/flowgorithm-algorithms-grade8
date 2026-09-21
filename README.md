@@ -63,10 +63,11 @@ Practice exercises increasingly incorporate realistic, everyday scenarios (geome
 - **Cohort:** 30 students in Grade 8.
 - **Topic Instructional Flow:**
   - **1 Teacher Demonstration Exercise:** Solved live by the educator while verbalizing the reasoning process (inputs, variables, formulas, algorithm structure).
-  - **3 Student Practice Exercises:** Solved independently by students during class, progressively building reasoning independence:
+  - **4 Student Practice Exercises:** Solved independently by students during class, progressively building reasoning independence:
     - *Exercise 1:* Direct parallel application in a familiar practical context.
     - *Exercise 2:* Related scenario requiring multi-variable derivation and unit awareness.
-    - *Exercise 3:* Extended challenge requiring synthesis without introducing unlearned programming features.
+    - *Exercise 3:* Extended challenge requiring operator precedence and weighted synthesis.
+    - *Exercise 4:* Multi-step real-world financial challenge (bill total, percentage service fee, and per-person split).
 
 ---
 
@@ -95,7 +96,8 @@ Practice exercises increasingly incorporate realistic, everyday scenarios (geome
 │       │   └── solution.png       # Rendered Flowgorithm diagram (white background)
 │       ├── student-exercise-01/   # Student practice 1
 │       ├── student-exercise-02/   # Student practice 2
-│       └── student-exercise-03/   # Student practice 3
+│       ├── student-exercise-03/   # Student practice 3
+│       └── student-exercise-04/   # Student practice 4
 ├── templates/
 │   ├── problem-template.md        # Standard template for problem statements
 │   └── template.fprg              # Clean starter Flowgorithm XML
@@ -149,6 +151,7 @@ The repository includes a dedicated [`scripts/`](./scripts/) folder containing a
   - [Student Practice 1: Dəftərxana ləvazimatı alış-verişi və qalıq pul](./topics/sequential-algorithms/student-exercise-01/problem.md)
   - [Student Practice 2: Avtomobilin səyahət müddəti və yanacaq sərfiyyatı](./topics/sequential-algorithms/student-exercise-02/problem.md)
   - [Student Practice 3: Şagirdin üç fənn üzrə orta balı və çəkili qiyməti](./topics/sequential-algorithms/student-exercise-03/problem.md)
+  - [Student Practice 4: Kafe hesabı: Xidmət haqqı və pay bölgüsü](./topics/sequential-algorithms/student-exercise-04/problem.md)
 - [ ] **Topic 2:** Conditional Statements (*Budaqlanan alqoritmlər: Şərt operatorları*)
 - [ ] **Topic 3:** While Loops (*Dövri alqoritmlər: Şərtli dövrlər*)
 - [ ] **Topic 4:** For Loops (*Sayğaclı dövrlər*)

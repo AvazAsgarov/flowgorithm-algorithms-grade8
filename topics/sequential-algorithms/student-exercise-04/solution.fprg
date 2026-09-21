@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="solution"/>
+        <attribute name="authors" value="Avaz Asgarov"/>
+        <attribute name="about" value="Kafe hesabı: Xidmət haqqı və adambaşına düşən pay"/>
+        <attribute name="saved" value="2026-09-21 11:30:00 PM"/>
+        <attribute name="created" value="QXZheiBBc2dhcm92Ozs="/>
+        <attribute name="edited" value="QXZheiBBc2dhcm92Ozs="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="subtotal, serviceRate, serviceFee, totalBill, perPerson" type="Real" array="False" size=""/>
+            <declare name="friendCount" type="Integer" array="False" size=""/>
+            <output expression="&quot;Sifarişin ilkin məbləğini daxil edin (AZN):&quot;" newline="True"/>
+            <input variable="subtotal"/>
+            <output expression="&quot;Xidmət haqqı faizini daxil edin (%):&quot;" newline="True"/>
+            <input variable="serviceRate"/>
+            <output expression="&quot;Dostların sayını daxil edin:&quot;" newline="True"/>
+            <input variable="friendCount"/>
+            <assign variable="serviceFee" expression="subtotal * (serviceRate / 100)"/>
+            <assign variable="totalBill" expression="subtotal + serviceFee"/>
+            <assign variable="perPerson" expression="totalBill / friendCount"/>
+            <output expression="&quot;Xidmət haqqı: &quot; &amp; serviceFee &amp; &quot; AZN&quot;" newline="True"/>
+            <output expression="&quot;Yekun hesab: &quot; &amp; totalBill &amp; &quot; AZN&quot;" newline="True"/>
+            <output expression="&quot;Adambaşına düşən pay: &quot; &amp; perPerson &amp; &quot; AZN&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -23,3 +23,4 @@ Bu bölmədə şagirdlər hər hansı şərt və ya dövr operatorlarından isti
 | [`student-exercise-01/`](./student-exercise-01/problem.md) | Təcrübə 1 | Dəftərxana alış-verişi və qalıq pul | Qiymət, say, məbləğ və qalıq pul hesablanması |
 | [`student-exercise-02/`](./student-exercise-02/problem.md) | Təcrübə 2 | Səyahət müddəti və yanacaq sərfiyyatı | Nisbətlər, kəsr bölməsi və fiziki kəmiyyətlər |
 | [`student-exercise-03/`](./student-exercise-03/problem.md) | Təcrübə 3 | Üç fənn üzrə orta bal və çəkili qiymət | Əməliyyatların prioritetliyi və faiz əmsalları |
+| [`student-exercise-04/`](./student-exercise-04/problem.md) | Təcrübə 4 | Kafe hesabı: Xidmət haqqı və pay bölgüsü | Faiz hesabı, cəm və adambaşına bərabər bölmə |
