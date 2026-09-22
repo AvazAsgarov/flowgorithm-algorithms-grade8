@@ -1,0 +1,157 @@
+\documentclass[10.5pt,a4paper]{article}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage[margin=1.2cm,top=1.2cm,bottom=1.2cm]{geometry}
+\usepackage{listings}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    frame=single,
+    breaklines=true,
+    showstringspaces=false,
+    tabsize=4
+}
+
+\begin{document}
+
+% ==================== SƏHİFƏ 1 ====================
+\begin{center}
+    {\large \textbf{BAKI ALİ NEFT MƏKTƏBİNİN NƏZDİNDƏ}}\\[0.1cm]
+    {\LARGE \textbf{RƏQƏMSAL BİLİKLƏR LİSEYİ}}\\[0.2cm]
+    {\textbf{Fənn:} İnformatika (C++ Proqramlaşdırma) \quad | \quad \textbf{Sinif:} 8-ci sinif}\\[0.05cm]
+    {\textbf{Mövzu:} Dərs 01 -- C++ Sintaksisinin Əsasları və Xətti Alqoritmlər}\\[0.15cm]
+    {\Large \textbf{EV TAPŞIRIĞI İŞ VƏRƏQİ -- № 01}}
+\end{center}
+
+\vspace{0.05cm}
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.05cm}
+\textbf{Şagirdin Adı, Soyadı:} \hrulefill \quad 
+\textbf{Sinif:} \underline{\hspace{1.5cm}} \quad 
+\textbf{Tarix:} \underline{\hspace{2cm}} \quad
+\textbf{Qiymət:} \underline{\hspace{1.2cm}} / 100
+\vspace{0.05cm}
+}}
+
+\vspace{0.2cm}
+{\large \textbf{HİSSƏ A: Nəzəriyyə və Kod Analizi (30 Bal)}}
+\vspace{0.05cm}
+\hrule
+\vspace{0.15cm}
+
+\textbf{1. C++ Proqramının Əsas Quruluşu (5 bal)}\\
+C++ proqramının başında yazılan \texttt{\#include <iostream>} kitabxanası və \texttt{using namespace std;} təyinatı nə üçündür? Qısa izah edin.\\
+\noindent\rule{\textwidth}{0.4pt}\\[0.15cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.2cm}
+\textbf{2. Xüsusi Simvollar (Escape Sequences) (5 bal)}\\
+Aşağıdakı simvolların proqram çıxışında nə rol oynadığını qarşısına qeyd edin:
+\begin{itemize}
+    \item \texttt{\textbackslash n} simvolu: \hrulefill
+    \item \texttt{\textbackslash t} simvolu: \hrulefill
+    \item \texttt{\textbackslash "} simvolu: \hrulefill
+\end{itemize}
+
+\vspace{0.15cm}
+\textbf{3. Konsol Çıxışını Əvvəlcədən Təyin Edin (Predict Output) (10 bal)}\\
+Aşağıdakı kod parçası icra olunduqda konsolda hansı nəticələr görünəcək? Dəqiq qeyd edin:
+
+\begin{minipage}[t]{0.52\textwidth}
+\begin{lstlisting}[language=C++]
+int a = 23;
+int b = 4;
+cout << "Netice 1: " << a / b << endl;
+cout << "Netice 2: " << a % b << endl;
+cout << "Netice 3: " << a + b * 2 << endl;
+\end{lstlisting}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.44\textwidth}
+\noindent\fbox{%
+\parbox{0.95\linewidth}{%
+\textbf{Konsol Çıxışı:}\\[0.1cm]
+1. \hrulefill\\[0.3cm]
+2. \hrulefill\\[0.3cm]
+3. \hrulefill\\[0.3cm]
+}}
+\end{minipage}
+
+\vspace{0.2cm}
+\textbf{4. Sintaksis Xətalarını Aşkarlayın və Düzəldin (10 bal)}\\
+Aşağıdakı kod parçasında 4 kobud xəta var. Hər xətanı göstərin və qarşısına düzgün formasını yazın:
+
+\begin{minipage}[t]{0.52\textwidth}
+\begin{lstlisting}[language=C++]
+#include <iostream>
+using namespace std;
+
+int main() {
+    int qiymet = 12.5;
+    cin << say;
+    cout >> "Cemi: " >> qiymet * say
+    return 0
+}
+\end{lstlisting}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.44\textwidth}
+\textbf{Düzəlişləriniz:}\\[0.1cm]
+1. \hrulefill\\[0.3cm]
+2. \hrulefill\\[0.3cm]
+3. \hrulefill\\[0.3cm]
+4. \hrulefill\\[0.3cm]
+\end{minipage}
+
+\vfill
+\begin{center}
+\footnotesize \textit{Müəllim: Avaz Əsgərov | BANM Nəzdində Rəqəmsal Biliklər Liseyi -- Səhifə 1 / 2}
+\end{center}
+
+\newpage
+
+% ==================== SƏHİFƏ 2 ====================
+{\large \textbf{HİSSƏ B: Praktik Proqramlaşdırma Məsələləri (70 Bal)}}
+\vspace{0.05cm}
+\hrule
+\vspace{0.15cm}
+
+\textbf{Məsələ 1: Valyuta Dəyişmə Məntəqəsi Kalkulyatoru (20 bal)}\\
+İstifadəçidən manat məbləğini (\texttt{double aznAmount}) və dollar məzənnəsini (\texttt{double exchangeRate}) qəbul edən, neçə ABŞ dolları alındığını hesablayıb (\texttt{usd = azn / exchangeRate}) ekrana çıxaran C++ kodunu yazın:
+
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.05cm}
+\textbf{Məsələ 1 üçün C++ Kodu:}\\[4.6cm]
+}}
+
+\vspace{0.25cm}
+\textbf{Məsələ 2: Avtomobil Səyahəti və Yanacaq Xərci (25 bal)}\\
+Məsafəni (\texttt{km}), 100 km-ə sərfiyyatı (\texttt{litr}) və 1 litr benzinin qiymətini (\texttt{AZN}) daxil edərək, cəmi tələb olunan benzini (\texttt{(km / 100.0) * litr}) və ümumi xərci hesablayıb ekrana çıxaran proqram kodunu yazın:
+
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.05cm}
+\textbf{Məsələ 2 üçün C++ Kodu:}\\[4.6cm]
+}}
+
+\vspace{0.25cm}
+\textbf{Məsələ 3: Saniyə Ölçən və Vaxt Bölgüsü (Böyük Qalıq Məsələsi) (25 bal)}\\
+İstifadəçidən saniyə sayını (\texttt{int totalSeconds}) daxil etməsini istəyin. Tam bölmə (\texttt{/}) və qalıq (\texttt{\%}) ilə bu vaxtı \textbf{saat, dəqiqə və saniyə} formatında hesablayıb ekrana çıxaran C++ kodunu yazın:
+
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.05cm}
+\textbf{Məsələ 3 üçün C++ Kodu:}\\[4.6cm]
+}}
+
+\vfill
+\begin{center}
+\footnotesize \textit{Müəllim: Avaz Əsgərov | BANM Nəzdində Rəqəmsal Biliklər Liseyi -- Səhifə 2 / 2}
+\end{center}
+
+\end{document}

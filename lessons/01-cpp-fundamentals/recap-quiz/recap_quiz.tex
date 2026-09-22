@@ -1,0 +1,102 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage[margin=1.2cm,top=1.2cm,bottom=1.2cm]{geometry}
+\usepackage{listings}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    frame=single,
+    breaklines=true,
+    showstringspaces=false,
+    tabsize=4
+}
+
+\begin{document}
+
+% --- BAŞLIQ ---
+\begin{center}
+    {\large \textbf{BAKI ALİ NEFT MƏKTƏBİNİN NƏZDİNDƏ RƏQƏMSAL BİLİKLƏR LİSEYİ}}\\[0.1cm]
+    {\Large \textbf{DƏRS 01 ÜZRƏ 10 DƏQİQƏLİK TƏKRAR QUİZ (RECAP QUIZ)}}\\[0.1cm]
+    {\small \textbf{Fənn:} İnformatika \quad | \quad \textbf{Sinif:} 8-ci sinif \quad | \quad \textbf{Müddət:} 10 dəqiqə \quad | \quad \textbf{Maksimal Bal:} 20 bal}
+\end{center}
+
+\vspace{0.05cm}
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.05cm}
+\textbf{Şagirdin Adı, Soyadı:} \hrulefill \quad 
+\textbf{Sinif:} \underline{\hspace{1.5cm}} \quad 
+\textbf{Tarix:} \underline{\hspace{2cm}} \quad
+\textbf{Toplanan Bal:} \underline{\hspace{1.2cm}} / 20
+\vspace{0.05cm}
+}}
+
+\vspace{0.25cm}
+
+\textbf{1. Test Sualı (4 bal)}\\
+Şagirdin orta qiymətini (məsələn, \texttt{93.75}) yaddaşda saxlamaq üçün ən uyğun C++ məlumat tipi hansıdır?\\
+$[ \ ]$ A) \texttt{int} \hspace{2cm} $[ \ ]$ B) \texttt{double} \hspace{2cm} $[ \ ]$ C) \texttt{string} \hspace{2cm} $[ \ ]$ D) \texttt{char}
+
+\vspace{0.35cm}
+\textbf{2. Test Sualı (4 bal)}\\
+Aşağıdakı C++ kod sətrinin konsol çıxışı nə olacaq?
+\begin{lstlisting}[language=C++]
+cout << 17 % 5;
+\end{lstlisting}
+$[ \ ]$ A) \texttt{3.4} \hspace{2cm} $[ \ ]$ B) \texttt{3} \hspace{2cm} $[ \ ]$ C) \texttt{2} \hspace{2cm} $[ \ ]$ D) \texttt{0}
+
+\vspace{0.35cm}
+\textbf{3. Səhvi Tapın və Düzəldin (4 bal)}\\
+Aşağıdakı C++ kod sətrində hansı kobud sintaksis xətası var? Düzəlişi yazın:
+\begin{lstlisting}[language=C++]
+cin << studentAge;
+\end{lstlisting}
+\textbf{Düzgün forma:} \hrulefill
+
+\vspace{0.35cm}
+\textbf{4. Çıxışı Əvvəlcədən Təyin Edin (Predict Output) (4 bal)}\\
+Aşağıdakı kod parçası icra olunduqda ekrana hansı ədəd çıxacaq?
+
+\begin{minipage}[t]{0.52\textwidth}
+\begin{lstlisting}[language=C++]
+int x = 10;
+x += 6;
+x--;
+cout << x;
+\end{lstlisting}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.44\textwidth}
+\noindent\fbox{%
+\parbox{0.95\linewidth}{%
+\textbf{Konsol Çıxışı:}\\[0.2cm]
+\vspace{0.7cm}
+}}
+\end{minipage}
+
+\vspace{0.35cm}
+\textbf{5. Qısa Kod Yazılışı (4 bal)}\\
+Aşağıdakı 3 tələbi yerinə yetirən 3 sətirlik C++ kodunu yazın:
+\begin{enumerate}
+    \itemsep0em
+    \item \texttt{radius} adında kəsr ədəd (\texttt{double}) dəyişəni elan edin.
+    \item İstifadəçidən \texttt{cin} vasitəsilə bu radiusu daxil etməsini oxuyun.
+    \item Çevrənin uzunluğunu (\texttt{2 * 3.14 * radius}) \texttt{cout} ilə ekrana çıxarın.
+\end{enumerate}
+
+\noindent\fbox{%
+\parbox{0.98\textwidth}{%
+\vspace{0.1cm}
+\textbf{3 Sətirlik C++ Kodu:}\\[2.6cm]
+}}
+
+\vfill
+\begin{center}
+\footnotesize \textit{Müəllim: Avaz Əsgərov | BANM Nəzdində Rəqəmsal Biliklər Liseyi -- Səhifə 1 / 1}
+\end{center}
+
+\end{document}

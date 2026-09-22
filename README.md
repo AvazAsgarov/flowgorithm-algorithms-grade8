@@ -1,157 +1,153 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Flowgorithm Problem Book Repository — The Lyceum of Digital Knowledge, Baku Higher Oil School" width="100%">
+  <img src="./assets/banner.png" alt="C++ Proqramlaşdırma Kurrikulumu — BANM Nəzdində Rəqəmsal Biliklər Liseyi" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/school/baku-higher-oil-school/"><img src="https://img.shields.io/badge/Institution-The%20Lyceum%20of%20Digital%20Knowledge%20under%20BHOS-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Institution"></a>
-  <a href="https://www.linkedin.com/in/avaz-asgarov/"><img src="https://img.shields.io/badge/Instructor-Avaz%20Asgarov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instructor"></a>
-  <a href="https://github.com/AvazAsgarov/flowgorithm-algorithms-grade8/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github&logoColor=white" alt="Release"></a>
-  <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Class%20Cohort-30%20Students-2B7A78?style=for-the-badge" alt="Cohort"></a>
-  <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Grade-8th%20Grade%20Informatics-008080?style=for-the-badge" alt="Grade"></a>
-  <a href="http://www.flowgorithm.org/"><img src="https://img.shields.io/badge/Platform-Flowgorithm%20v4.5-4CAF50?style=for-the-badge" alt="Platform"></a>
-  <a href="./topics/"><img src="https://img.shields.io/badge/Curriculum%20Language-Azerbaijani-E63946?style=for-the-badge" alt="Curriculum Language"></a>
+  <a href="https://www.linkedin.com/school/baku-higher-oil-school/"><img src="https://img.shields.io/badge/Müəssisə-BANM%20nəzdində%20Rəqəmsal%20Biliklər%20Liseyi-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Müəssisə"></a>
+  <a href="https://www.linkedin.com/in/avaz-asgarov/"><img src="https://img.shields.io/badge/Müəllim-Avaz%20Əsgərov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Müəllim"></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/Standart-C%2B%2B17-00599E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17"></a>
+  <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Sinif%20Heyəti-30%20Şagird-2B7A78?style=for-the-badge" alt="Şagird sayı"></a>
+  <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Təhsil-8--ci%20Sinif%20İnformatika-008080?style=for-the-badge" alt="Sinif"></a>
+  <a href="./lessons/"><img src="https://img.shields.io/badge/Tədris%20Dili-Azərbaycan%20Dili-E63946?style=for-the-badge" alt="Tədris Dili"></a>
 </p>
 
 ---
 
-## 🏛️ Institutional Affiliation & Course Overview
+## 🏛️ Tədris Mərkəzi və Kurs Haqqında
 
-This curriculum repository is developed and maintained by **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**, Informatics Teacher at **The Lyceum of Digital Knowledge under [Baku Higher Oil School (BHOS)](https://www.linkedin.com/school/baku-higher-oil-school/)**.
+Bu repository **[Bakı Ali Neft Məktəbinin (BANM)](https://bhos.edu.az)** nəzdində fəaliyyət göstərən **Rəqəmsal Biliklər Liseyinin** 8-ci sinif şagirdləri üçün hazırlanmış rəsmi **C++ Proqramlaşdırma Dərslik və Tədris Paketidir**.
 
-- **Institution:** The Lyceum of Digital Knowledge under Baku Higher Oil School
-- **Class Cohort:** 30 Grade-8 students
-- **Subject:** Informatics / Algorithmic Problem Solving
-- **Platform:** [Flowgorithm Visual Programming](http://www.flowgorithm.org/)
-- **Institutional Links:**
-  - [Baku Higher Oil School — LinkedIn](https://www.linkedin.com/school/baku-higher-oil-school/)
-  - [Baku Higher Oil School — Official Portal](https://bhos.edu.az)
-
-The material serves as the central algorithmic workbook for the classroom, instilling rigorous computational habits, problem deconstruction, and visual algorithm design before transitioning to text-based syntax.
+- **Tədris Müəssisəsi:** Bakı Ali Neft Məktəbinin nəzdində Rəqəmsal Biliklər Liseyi
+- **Hədəf Auditoriya:** 30 nəfərdən ibarət 8-ci sinif şagird kollektivi
+- **Fənn:** İnformatika / C++ ilə Alqoritmik Proqramlaşdırma
+- **Əlaqədar Portallar:**
+  - [Bakı Ali Neft Məktəbi — Rəsmi Veb-sayt](https://bhos.edu.az)
+  - [Bakı Ali Neft Məktəbi — LinkedIn](https://www.linkedin.com/school/baku-higher-oil-school/)
 
 ---
 
-## 👨‍🏫 Instructor & Author Profile
+## 👨‍🏫 Müəllim və Müəllif Profili
 
-**[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)** bridges engineering education and secondary school pedagogy within Baku Higher Oil School:
+Kurrikulum və sinif tədris sistemi **[Avaz Əsgərov](https://www.linkedin.com/in/avaz-asgarov/)** tərəfindən hazırlanmış və idarə olunur:
 
-- **Teaching Role:** Informatics Teacher at **The Lyceum of Digital Knowledge under Baku Higher Oil School (BHOS)**, leading and mentoring an active cohort of 30 Grade-8 students in algorithmic thinking.
-- **Academic Background:** 5th-Year Undergraduate Student in **Process Automation Engineering** at **Baku Higher Oil School (BHOS)**.
-- **Engineering Synergy:** Combining the mathematical rigor of industrial process automation with visual algorithmic modeling to deliver structured, industry-informed computational foundations to young learners.
-- **Professional Profiles:**
-  - [LinkedIn Profile — Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)
-  - [GitHub Profile — @AvazAsgarov](https://github.com/AvazAsgarov)
-
----
-
-## 🎯 Pedagogical Philosophy
-
-The primary goal of this curriculum is not simply connecting flowchart blocks. It trains students to think systematically:
-
-1. **Problem Comprehension:** Reading and breaking down mathematical and real-world scenarios.
-2. **Identifying Inputs & Outputs:** Determining what is given versus what must be computed.
-3. **Deriving the Algorithm:** Deriving the mathematical formulas and operational sequence.
-4. **Meaningful Variable Selection:** Using self-documenting English identifiers (`length`, `width`, `area`, `totalPrice`, `distance`) instead of arbitrary single-letter variables.
-5. **Flowchart Implementation:** Translating logical reasoning into Flowgorithm blocks.
-6. **User Interaction & Clear Output:** Prompting the user clearly before reading inputs and presenting formatted results with context.
-
-Practice exercises increasingly incorporate realistic, everyday scenarios (geometry, commercial calculations, travel physics, statistics) rather than artificial equations.
+- **Pedaqoji Fəaliyyət:** Bakı Ali Neft Məktəbinin nəzdində **Rəqəmsal Biliklər Liseyində** İnformatika müəllimi. 30 istedadlı 8-ci sinif şagirdinə proqramlaşdırma və alqoritmik düşüncə dərslərini tədris edir.
+- **Akademik Təhsil:** **Bakı Ali Neft Məktəbində (BANM)** *Proseslərin Avtomatlaşdırılması Mühəndisliyi* (Process Automation Engineering) ixtisası üzrə 5-ci kurs tələbəsi.
+- **Mühəndislik və Tədris Sinergiyası:** Sənaye avtomatlaşdırması və idarəetmə sistemlərinin mühəndislik intizamını gənc lisey şagirdlərinin orta məktəb informatika dərslərinə inteqrasiya edərək dərin, möhkəm və tətbiqi proqramlaşdırma bazası formalaşdırır.
+- **Rəsmi Profillər:**
+  - [LinkedIn Profili — Avaz Əsgərov](https://www.linkedin.com/in/avaz-asgarov/)
+  - [GitHub Profili — @AvazAsgarov](https://github.com/AvazAsgarov)
 
 ---
 
-## 👥 Classroom Instruction Structure
+## 🔄 Tədris Metodologiyası və Sinif Dərs Paketi Sistemi
 
-- **Cohort:** 30 students in Grade 8.
-- **Topic Instructional Flow:**
-  - **1 Teacher Demonstration Exercise:** Solved live by the educator while verbalizing the reasoning process (inputs, variables, formulas, algorithm structure).
-  - **4 Student Practice Exercises:** Solved independently by students during class, progressively building reasoning independence:
-    - *Exercise 1:* Direct parallel application in a familiar practical context.
-    - *Exercise 2:* Related scenario requiring multi-variable derivation and unit awareness.
-    - *Exercise 3:* Extended challenge requiring operator precedence and weighted synthesis.
-    - *Exercise 4:* Multi-step real-world financial challenge (bill total, percentage service fee, and per-person split).
-
----
-
-## 🌐 Language Policy
-
-- **Student-Facing Problem Material (Azerbaijani):**
-  Problem statements, user prompts (`Output "Uzunluğu daxil edin:"`), output labels, and examples are written in natural Azerbaijani, matching the classroom medium of instruction.
-- **Identifiers & Code Conventions (English):**
-  All variable and function names use descriptive English identifiers (`speed`, `distance`, `totalPrice`, `simpleAverage`).
-- **Repository Documentation (English):**
-  Repository architecture, teacher tools, and README files are maintained in English for consistency and technical clarity.
-
----
-
-## 📂 Repository Structure
+Repository sadəcə kod parçalarından ibarət deyil. Hər bir mövzu müəllimin sinfə daxil olub **tam hazır materiallarla dərsi yüksək standartda keçirməsi üçün vahid paket** formatında qurulmuşdur:
 
 ```text
-├── assets/
-│   └── banner.png                 # Official Lyceum of Digital Knowledge banner
-├── topics/
-│   └── sequential-algorithms/     # Topic 1 directory
-│       ├── README.md              # Topic overview and exercise index
-│       ├── teacher-example/       # Teacher demonstration
-│       │   ├── problem.md         # Problem description (Azerbaijani)
-│       │   ├── solution.fprg      # Flowgorithm solution file
-│       │   └── solution.png       # Rendered Flowgorithm diagram (white background)
-│       ├── student-exercise-01/   # Student practice 1
-│       ├── student-exercise-02/   # Student practice 2
-│       ├── student-exercise-03/   # Student practice 3
-│       └── student-exercise-04/   # Student practice 4
-├── templates/
-│   ├── problem-template.md        # Standard template for problem statements
-│   └── template.fprg              # Clean starter Flowgorithm XML
-└── scripts/
-    ├── render_flowchart.ps1       # Native Flowgorithm flowchart PNG exporter
-    └── validate_solutions.ps1     # Automated repository integrity validator
+[Yeni Mövzu]
+     │
+     ▼
+[Pedaqoji İzah & Metodika]  ──► README.md (Dəqiqəbədəqiqə dərs bölgüsü, lövhə planı, tipik səhvlər)
+     │
+     ▼
+[Hazır Müəllim Demosu]      ──► teacher-demos/ (Proyektorda canlı icra edilən səliqəli C++ kodları)
+     │
+     ▼
+[Dərsdaxili İnteraktivlik]  ──► interactive-code/ (Nəticə proqnozu, boşluq doldurma, səhv tapma)
+     │
+     ▼
+[Fərdi Sinif Praktikası]    ──► independent-tasks/ (Kompüter arxasında sərbəst real həyat məsələləri)
+     │
+     ▼
+[Ev Tapşırığı Paketi]       ──► homework/ (2 səhifəlik çap üçün LaTeX PDF + Müəllim Cavab Açarı)
+     │
+     ▼
+[Növbəti Dərsə Başlanğıc]   ──► recap-quiz/ (10 dəqiqəlik yoxlama LaTeX PDF + 5 dəqiqəlik qiymətləndirmə matrisi)
 ```
 
 ---
 
-## ⚙️ Maintainer & Teacher Automation Tools (`scripts/`)
+## 📂 Repository Qovluq Strukturu
 
-The repository includes a dedicated [`scripts/`](./scripts/) folder containing automated PowerShell tools designed specifically for the teacher/maintainer to manage classroom resources efficiently:
-
-1. **Flowchart Diagram Renderer ([`scripts/render_flowchart.ps1`](./scripts/render_flowchart.ps1)):**
-   - Headlessly loads `.fprg` files and renders crisp, high-resolution flowchart diagrams directly using Flowgorithm's native rendering engine (`Flowgorithm.Main`, `Flowchart+Page`, `Stm+Program`).
-   - Automatically composites every diagram onto an opaque, 100% white background (`#FFFFFF`), ensuring perfect legibility on both light and dark GitHub interfaces.
-   - Usage:
-     ```powershell
-     # Render a single exercise
-     powershell -ExecutionPolicy Bypass -File .\scripts\render_flowchart.ps1 -FprgPath "topics/sequential-algorithms/teacher-example/solution.fprg"
-
-     # Batch-render all exercises across all topics
-     powershell -ExecutionPolicy Bypass -File .\scripts\render_flowchart.ps1 -All
-     ```
-
-2. **Curriculum Integrity Validator ([`scripts/validate_solutions.ps1`](./scripts/validate_solutions.ps1)):**
-   - Validates that every exercise contains `problem.md`, `solution.fprg`, and `solution.png`.
-   - Checks that problem descriptions adhere to the standard Azerbaijani headers (`### Məsələ`, `### Giriş`, `### Gözlənilən çıxış`, `### Nümunə`).
-   - Parses `.fprg` files against the real Flowgorithm engine to guarantee error-free execution.
-   - Validates English variable naming standards.
-   - Usage:
-     ```powershell
-     powershell -ExecutionPolicy Bypass -File .\scripts\validate_solutions.ps1
-     ```
+```text
+flowgorithm-algorithms-grade8/
+├── assets/
+│   └── banner.png                                  # Rəsmi vizual brend banneri
+├── lessons/
+│   └── 01-cpp-fundamentals/                        # DƏRS 01: 2 x 40 Dəqiqəlik Tədris Paketi
+│       ├── README.md                               # Müəllim dərs bələdçisi və metodik vəsait
+│       ├── teacher-demos/                          # 6 ədəd hazır nümayiş kodu
+│       │   ├── 01_hello_structure.cpp              # C++ strukturu, include, main, cout, <<
+│       │   ├── 02_escape_and_comments.cpp          # \n, \t, xüsusi simvollar və şərhlər
+│       │   ├── 03_variables_and_types.cpp          # Dəyişənlər: int, double, string
+│       │   ├── 04_user_input_cin.cpp               # cin operatoru və məlumat daxiletmə
+│       │   ├── 05_arithmetic_and_shortcuts.cpp     # +, -, *, /, %, tam bölmə və qısayollar
+│       │   └── 06_interactive_program.cpp          # Laboratoriya otaq təmiri kalkulyatoru
+│       ├── interactive-code/                       # Sinifdə interaktiv məşğələlər
+│       │   ├── 01_predict_output.cpp               # Çıxışı əvvəlcədən təxmin etmə
+│       │   ├── 02_fill_in_the_blank.cpp            # Boşluqları tamamlama
+│       │   ├── 03_find_the_errors.cpp              # Tipik sintaksis səhvlərini düzəltmə
+│       │   └── 04_todo_exercises.cpp               # Addım-addım yönləndirilən tapşırıqlar
+│       ├── independent-tasks/                      # Müstəqil laboratoriya tapşırıqları
+│       │   ├── task1_student_badge.cpp             # Şagird yaxa kartı generatoru
+│       │   ├── task2_rectangle_calculator.cpp      # Otaq həndəsəsi kalkulyatoru
+│       │   ├── task3_store_receipt.cpp             # Məktəbli ləvazimatı kassa çeki
+│       │   └── task4_time_converter.cpp            # Dəqiqələri saat və qalıq dəqiqəyə çevirici
+│       ├── homework/                               # Ev tapşırığı materialları
+│       │   ├── homework_assignment.md              # Markdown tapşırıq mətni
+│       │   ├── homework_worksheet.tex              # 2 səhifəlik şagird iş vərəqi (LaTeX)
+│       │   ├── homework_worksheet.pdf              # Çapa hazır PDF (Cavabsız)
+│       │   └── homework_answer_key.md              # Müəllim üçün ətraflı həll və rubrik
+│       └── recap-quiz/                             # 10 dəqiqəlik təkrar quiz paketi
+│           ├── recap_quiz.md                       # Markdown quiz mətni
+│           ├── recap_quiz.tex                      # 1 səhifəlik şagird imtahan vərəqi (LaTeX)
+│           ├── recap_quiz.pdf                      # Çapa hazır PDF (Cavabsız)
+│           └── recap_quiz_answer_key.md            # Müəllim üçün sürətli yoxlama açarı
+├── scripts/
+│   └── verify_curriculum.py                        # Avtomatlaşdırılmış test və yoxlama skripti
+└── README.md                                       # Baş sənəd
+```
 
 ---
 
-## 🛠️ Working with Flowgorithm Files
+## 🗺️ Tədris Planı və Yol Xəritəsi (Curriculum Roadmap)
 
-1. Install Flowgorithm from [flowgorithm.org](http://www.flowgorithm.org/).
-2. Open any `solution.fprg` file via `File > Open...` (or double-click the file in Windows Explorer).
-3. Execute the flowchart using `Program > Run` (or press `F5`).
+- [x] **Dərs 01:** [C++ Dilinin Əsasları və Xətti Alqoritmlər](./lessons/01-cpp-fundamentals/)
+  - *Proqram strukturu, `cout`, `cin`, dəyişənlər (`int`, `double`, `string`), hesab əməlləri, tam bölmə vs qalıq (`%`), formatlı çıxış.*
+- [ ] **Dərs 02:** Budaqlanan Alqoritmlər: Şərt Operatorları (`if`, `else if`, `else`, məntiqi operatorlar `&&`, `||`, `!`)
+- [ ] **Dərs 03:** Dövri Alqoritmlər: Şərtli Dövrlər (`while`, `do-while`)
+- [ ] **Dərs 04:** Sayğaclı Dövrlər (`for` dövrü və cəmləmə/hasillər)
+- [ ] **Dərs 05:** İç-içə Dövrlər və Naxışlar (Nested Loops & Patterns)
+- [ ] **Dərs 06:** Birölçülü Massivlər (Arrays & Data Sequences)
 
 ---
 
-## 📋 Curriculum Roadmap
+## ⚡ Avtomatlaşdırılmış Yoxlama Sistemi (`scripts/`)
 
-- [x] **Topic 1:** [Sequential Algorithms (*Xətti alqoritmlər*)](./topics/sequential-algorithms/README.md)
-  - [Teacher Demonstration: Düzbucaqlı otağın sahəsi və perimetri](./topics/sequential-algorithms/teacher-example/problem.md)
-  - [Student Practice 1: Dəftərxana ləvazimatı alış-verişi və qalıq pul](./topics/sequential-algorithms/student-exercise-01/problem.md)
-  - [Student Practice 2: Avtomobilin səyahət müddəti və yanacaq sərfiyyatı](./topics/sequential-algorithms/student-exercise-02/problem.md)
-  - [Student Practice 3: Şagirdin üç fənn üzrə orta balı və çəkili qiyməti](./topics/sequential-algorithms/student-exercise-03/problem.md)
-  - [Student Practice 4: Kafe hesabı: Xidmət haqqı və pay bölgüsü](./topics/sequential-algorithms/student-exercise-04/problem.md)
-- [ ] **Topic 2:** Conditional Statements (*Budaqlanan alqoritmlər: Şərt operatorları*)
-- [ ] **Topic 3:** While Loops (*Dövri alqoritmlər: Şərtli dövrlər*)
-- [ ] **Topic 4:** For Loops (*Sayğaclı dövrlər*)
+Repository daxilindəki bütün C++ fayllarının, PDF sənədlərinin və şagird məxfiliyinin bütövlüyünü yoxlamaq üçün vahid yoxlama aləti mövcuddur:
+
+```bash
+# Bütün C++ kodlarının kompilasiyasını və PDF fayllarını yoxlayın:
+python scripts/verify_curriculum.py
+```
+
+Skript avtomatik olaraq:
+1. Bütün `.cpp` fayllarını `-std=c++17 -Wall -Wextra -Werror` bayraqları ilə yoxlayır (0 xəta, 0 xəbərdarlıq).
+2. Şagird iş vərəqələrinin (`homework_worksheet.pdf` və `recap_quiz.pdf`) mövcudluğunu və səhifə saylarını təsdiqləyir.
+3. Şagird PDF/LaTeX sənədlərində heç bir cavab və ya həll sızmasının olmadığını zəmanət altına alır.
+
+---
+
+## 💻 Kompilyasiya və İşə Salma Təlimatı
+
+### Terminal vasitəsilə (Clang++ / G++):
+```bash
+# İstənilən C++ faylını kompilyasiya etmək üçün:
+clang++ -std=c++17 lessons/01-cpp-fundamentals/teacher-demos/01_hello_structure.cpp -o app
+./app
+```
+
+### VS Code və ya Code::Blocks mühitində:
+1. `flowgorithm-algorithms-grade8` qovluğunu VS Code mühitində açın.
+2. C/C++ əlavəsinin (extension) quraşdırıldığından əmin olun.
+3. İstənilən `.cpp` faylını açıb `F5` və ya `Ctrl + F5` düyməsinə basaraq dərhal icra edin.

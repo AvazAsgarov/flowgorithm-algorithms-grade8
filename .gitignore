@@ -1,6 +1,21 @@
-# Flowgorithm auto-backup files
-*.bak
-*.fprg.bak
+# C++ compiled executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# LaTeX auxiliary files (keep PDFs!)
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.toc
+*.vrb
 
 # Windows thumbnail and system files
 Thumbs.db
@@ -15,3 +30,5 @@ $RECYCLE.BIN/
 # Scratch & temporary test files
 scratch/
 *.tmp
+__pycache__/
+*.pyc
