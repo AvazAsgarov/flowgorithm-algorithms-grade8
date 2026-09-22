@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/school/baku-higher-oil-school/"><img src="https://img.shields.io/badge/Müəssisə-BANM%20nəzdində%20Rəqəmsal%20Biliklər%20Liseyi-003366?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Müəssisə"></a>
   <a href="https://www.linkedin.com/in/avaz-asgarov/"><img src="https://img.shields.io/badge/Müəllim-Avaz%20Əsgərov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Müəllim"></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/Standart-C%2B%2B17-00599E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17"></a>
+  <a href="https://github.com/AvazAsgarov/flowgorithm-algorithms-grade8/releases"><img src="https://img.shields.io/badge/Buraxılış-v2.0.0-blue?style=for-the-badge&logo=github&logoColor=white" alt="Buraxılış"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Sinif%20Heyəti-30%20Şagird-2B7A78?style=for-the-badge" alt="Şagird sayı"></a>
   <a href="https://bhos.edu.az"><img src="https://img.shields.io/badge/Təhsil-8--ci%20Sinif%20İnformatika-008080?style=for-the-badge" alt="Sinif"></a>
   <a href="./lessons/"><img src="https://img.shields.io/badge/Tədris%20Dili-Azərbaycan%20Dili-E63946?style=for-the-badge" alt="Tədris Dili"></a>
